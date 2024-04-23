@@ -1,12 +1,11 @@
-### Hey Guys👋
+### Hey Everyone! 👋
 
-I'm Luiz. 
+I'm Luiz.
 
-35y. 
+I'm 38 years young!
 
-I'm starting a new path in my life learning Programming.
+I'm on a journey of self-discovery through programming, constantly evolving and embracing new technologies. Currently, I'm at QA.Coders Academy, where I'm honing my skills in manual and automated testing of APIs and web applications using tools like Postman, Robot, Ruby, Cucumber, and Playwright.
 
-I started learning Web development with Elixir/Phoenix, but I'm always learning new things to improve myself. 
-Pronouns: He/Him.
+Fun facts: I have a soft spot for all things nerdy—be it Star Wars, Anime, or video games. 🎮
 
-Funfacts: I like some nerd things, like Star Wars, Anime and Videogames. :)  
+Feel free to reach out for a chat or collaboration. Let's code and explore the wonders of technology together!
